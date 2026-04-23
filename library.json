@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1",
+    "name": "Гистология, цитология и эмбриология",
+    "author": "С. Л. КУЗНЕЦОВ, Н.Н. МУШКАМБАРОВ",
+    "url": "https://raw.githubusercontent.com/MrHush47/GistoData/refs/heads/main/atlas.json"
+  },
+  {
+    "id": "2",
+    "name": "123",
+    "author": "Кафедра гистологии",
+    "url": "https://raw.githubusercontent.com/MrHush47/GistoData/refs/heads/main/atlas.json"
+  }
+]
